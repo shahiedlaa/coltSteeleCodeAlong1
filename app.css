@@ -1,0 +1,34 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: black;
+}
+
+#mainNav .navbar-brand{
+    font-size: 2rem;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+#mainNav .nav-link{
+    font-size: 1.25rem;
+    color: white;
+    font-weight: 50;
+}
+
+#mainNav .nav-link:hover{
+    color: red;
+}
+
+.heading h2{
+    color: white;
+    letter-spacing: 5px;
+}
+
+.heading span{
+    color: red;
+}
+
+.content {
+    color: white;
+}
